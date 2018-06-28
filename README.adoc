@@ -1,4 +1,4 @@
-Update: June 0218 moved to [Gitlab](https://gitlab.com/eschabell/fsw_bpms_integration)
+Update: June 0218 moved to https://gitlab.com/eschabell/fsw_bpms_integration
 
 
 :data-uri:
